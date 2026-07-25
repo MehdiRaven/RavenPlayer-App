@@ -68,8 +68,23 @@ Designed to make music playback enjoyable.
 
 # 📸 Screenshots
 
-Coming soon...
+<div align="center">
 
+<img src="screenshots/Home.jpg" width="250"/>
+<img src="screenshots/Library.jpg" width="250"/>
+<img src="screenshots/Music%20screen.jpg" width="250"/>
+
+<br><br>
+
+<img src="screenshots/setting1.jpg" width="250"/>
+<img src="screenshots/setting2.jpg" width="250"/>
+<img src="screenshots/equalizer.jpg" width="250"/>
+
+<br><br>
+
+<img src="screenshots/equalizer2.jpg" width="250"/>
+
+</div>
 ---
 
 # 🚀 Release
